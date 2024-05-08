@@ -8,3 +8,5 @@ elif a < b:
     print("a меньше b")
 else:
     print("a равно b")
+
+print("Конфликт был удален")
